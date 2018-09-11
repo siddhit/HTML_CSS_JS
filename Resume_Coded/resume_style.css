@@ -1,0 +1,36 @@
+.name {
+  font-family: arial;
+  font-weight: bolder;
+  font-size: 18px;
+  width: 800px;
+  margin-bottom: -10px;
+}
+
+p {
+  font-family: arial;
+  font-size: 12.5px;
+  width: 800px;
+  margin-bottom: 0;
+}
+
+.title {
+  font-family: arial;
+  font-weight: normal, bold;
+  text-transform: uppercase;
+  color:RoyalBlue;
+  font-size: 14px;
+  margin-bottom: -10px;
+}
+
+.subtitle {
+  font-family: arial;
+  font-size: 12.5px;
+  font-weight: bold;
+  margin-bottom: -8px;
+}
+
+ul {
+  font-family: arial;
+  font-size: 12.5px;
+  font-weight: normal;
+}
