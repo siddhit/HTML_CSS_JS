@@ -1,0 +1,236 @@
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  background-color: inherit;
+}
+
+h1 {
+  font-family: "Great Vibes", cursive;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  /*line height is specified without units*/
+
+}
+
+h2 {
+  font-family: "Roboto Mono", sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+
+}
+
+
+img.hobby-row{
+  width: 25%;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+
+
+}
+
+p{
+  line-height: 1.5;
+}
+
+li{
+
+  font-family: "Roboto Mono", sans-serif;
+  display: inline;
+  list-style: none;
+  padding:0 10px 0 10px;
+  text-decoration: none;
+
+}
+
+.social{
+  padding: auto 30px;
+  text-decoration: none;
+  font-weight: bold;
+  color: inherit;
+}
+
+.top-container {
+  /*ackground-color: #ecfcff;*/
+  background: linear-gradient(#ffffff,#ecfcff);
+  /*color pallette 154210 on colorhunt.co*/
+  margin: 0px;
+  position: relative;
+
+}
+
+.middle-container {
+  margin: 75px 0;
+  background-color: : #ffffff;
+  position: relative;
+}
+
+
+.headline{
+  padding: 15px;
+  width: 30%;
+  margin: auto;
+
+}
+
+.contact-me{
+  position: relative;
+  margin: auto;
+
+}
+
+
+.contact-desc{
+  padding-bottom: 15px;
+  width: 30%;
+  margin: 40px auto 60px;
+  position: relative;
+}
+
+.contact-line{
+  margin: 50px;
+}
+
+.contact-button {
+  background: #66BFBF;
+  border-style: none;
+  border-radius: 8px;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  font-size: 24px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 50px auto;
+}
+
+.contact-button:hover {
+  background: #ffffff;
+  border-color: #66BFBF;
+  color: #66BFBF;
+  border-style: solid;
+  text-decoration: none;
+}
+
+
+.bottom-container {
+  background: -webkit-linear-gradient(#ffffff, #ecfcff);
+  background: -o-linear-gradient(#ffffff, #ecfcff);
+  background: linear-gradient(#ffffff, #ecfcff);
+  padding-bottom: 50px;
+  padding-top: 50px;
+  margin-top: 100px;
+  position:relative;
+  width: 100%;
+}
+
+
+
+.footer-link{
+
+  font-family: #66BFBF, "Roboto Mono", sans-serif;
+  text-decoration: none;
+  padding: 50px;
+
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+  color: #11999E;
+  width: 7.5%;
+}
+
+.full-stack {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+  width: 12.5%;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  width: 10%;
+  margin-top: 30px;
+
+}
+
+
+.data-skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.industrial-skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+
+}
+
+.hobby-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.data{
+  float:left;
+  margin-right: 30px;
+}
+
+.industrial{
+  float:right;
+  margin-left: 30px;
+
+}
+
+.gardening{
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 75px;
+}
+
+.writing{
+  float: left;
+  margin-right: 30px;
+
+}
+
+.copyright{
+  margin: auto;
+}
+
+/*.attribute{
+   background-color: #ebfffb;
+   margin: auto;
+   display: inline;
+}
+.social-row{
+  display: inline;
+  margin: auto ;
+}*
