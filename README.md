@@ -1,2 +1,2 @@
 # HTML_CSS_JS
-Projects for front end
+Various projects related to WebDev and Front End
